@@ -83,6 +83,7 @@
 - [Juli Krue](https://github.com/JuliKrue)
 - [Justin Anthony Balaguer I](https://github.com/justinbalaguer)
 - [Karan Singh](https://github.com/karansingh97)
+- [Kaushki Raj](https://github.com/Kaushkiraj)
 - [Kaustubh J](https://github.com/thsubaku9)
 - [Kem Muhammad](https://github.com/siddiqtechnologies)
 - [Kevin Ward](https://github.com/Blueward12)
